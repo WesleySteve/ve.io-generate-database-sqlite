@@ -6,7 +6,7 @@ def read(filename):
 
 
 setup(
-    name="ve.io-genarete-database-sqlite",
+    name="ve.io-generate-database-sqlite",
     version="0.1.0",
     author="Wesley Steve",
     author_email="wesley.silva23@hotmail.com",
